@@ -93,8 +93,6 @@ Run all notebook cells sequentially to perform:
 
 ### Restaurant Types Distribution
 
-## 🖼️ Restaurant Types
-
 ![Restaurant Types](docs/Restaurant%20Types.png)
 
 ### Online vs Offline Orders
