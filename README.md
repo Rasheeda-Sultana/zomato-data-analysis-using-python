@@ -31,16 +31,6 @@ The project uses **Python** and industry-standard libraries: **Pandas, NumPy, Ma
 - Jupyter Notebook or Google Colab  
 - Recommended: Virtual environment for dependencies  
 
-Install dependencies:
-```bash
-pip install -r requirements.txt
-````
-
-If `requirements.txt` is not available, install manually:
-
-```bash
-pip install pandas numpy matplotlib seaborn
-```
 
 ---
 
