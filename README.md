@@ -135,7 +135,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ## 🌟 About Me
 
 Hi there! I'm **Rasheeda Sultana**. I’m a fresher in Data Analytics and passionate learner on a mission to share knowledge to help others learn and make working with data enjoyable and engaging!
-📧 Contact: [your.email@example.com](mailto:your.email@example.com)
+📧 Contact: [rasheeda7751@gmail.com](mailto:rasheeda7751@gmail.com)
 
 ```
 ```
