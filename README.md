@@ -101,7 +101,7 @@ Run all notebook cells sequentially to perform:
 
 ### Heatmap of Order Mode vs Restaurant Type
 
-![Heatmap](docs/heatmap.png)
+![Heatmap](docs/Heatmap.png)
 
 ---
 
