@@ -19,8 +19,6 @@ The project uses **Python** and industry-standard libraries: **Pandas, NumPy, Ma
 ├── data/                   # Dataset files (CSV)
 ├── notebooks/              # Jupyter/Colab notebooks
 ├── docs/                   # Documentation & visualizations
-├── src/                    # Source code modules
-├── requirements.txt        # Project dependencies
 ├── LICENSE                 # License information
 ├── README.md               # Project documentation
 
