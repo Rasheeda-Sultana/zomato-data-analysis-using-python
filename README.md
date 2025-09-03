@@ -51,7 +51,7 @@ git clone https://github.com/Rasheeda-Sultana/zomato-data-analysis-using-python.
 # Move into the project folder
 cd zomato-data-analysis-using-python
 
-# Navigate to the python script inside notebooks/pythoncode
+# Navigate to the python script inside notebooks
 cd notebook
 ```
 
