@@ -54,18 +54,7 @@ git clone https://github.com/Rasheeda-Sultana/zomato-data-analysis-using-python.
 cd zomato-data-analysis-using-python
 
 # Navigate to the python script inside notebooks/pythoncode
-cd notebooks/pythoncode
-```
-
-At this point, you’ll be inside the folder that has your Python script(s).
-
-👉 From here you can run your script, e.g.:
-
-```bash
-python your_script_name.py
-```
-
-
+cd notebooks
 ```
 
 ### 2. Prepare the dataset
