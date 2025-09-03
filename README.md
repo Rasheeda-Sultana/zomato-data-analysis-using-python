@@ -62,7 +62,7 @@ Place the dataset file `Zomato-data-.csv` inside the `data/` folder.
 ### 3. Run the notebook
 
 ```bash
-jupyter notebook notebooks/Zomato_Analysis.ipynb
+jupyter notebook notebooks/zomato_python_analysis.ipynb
 ```
 
 ### 4. Execute the workflow
