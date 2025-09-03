@@ -38,12 +38,33 @@ The project uses **Python** and industry-standard libraries: **Pandas, NumPy, Ma
 
 ### 1. Clone the repository
 
+Got it 👍 Since your Python script is inside:
+
+```
+zomato-data-analysis-using-python/notebooks/pythoncode/
+```
+
+Here’s the full clone and navigation code:
+
 ```bash
 # Clone the repository
 git clone https://github.com/Rasheeda-Sultana/zomato-data-analysis-using-python.git
 
-# Navigate into the project folder
+# Move into the project folder
 cd zomato-data-analysis-using-python
+
+# Navigate to the python script inside notebooks/pythoncode
+cd notebooks/pythoncode
+```
+
+At this point, you’ll be inside the folder that has your Python script(s).
+
+👉 From here you can run your script, e.g.:
+
+```bash
+python your_script_name.py
+```
+
 
 ```
 
