@@ -93,11 +93,13 @@ Run all notebook cells sequentially to perform:
 
 ### Restaurant Types Distribution
 
-![Restaurant Types](docs/2023%20Data%20Visualisation.png)
+## 🖼️ Restaurant Types
+
+![Restaurant Types](docs/Restaurant%20Types.png)
 
 ### Online vs Offline Orders
 
-![Orders Distribution](docs/2024%20Data%20Visualisation.png)
+![Order Distribution](docs/Order%20distribution.png)
 
 ### Heatmap of Order Mode vs Restaurant Type
 
