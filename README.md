@@ -38,8 +38,6 @@ The project uses **Python** and industry-standard libraries: **Pandas, NumPy, Ma
 
 ### 1. Clone the repository
 
-Got it 👍 Since your Python script is inside:
-
 ```
 zomato-data-analysis-using-python/notebooks/pythoncode/
 ```
@@ -54,7 +52,7 @@ git clone https://github.com/Rasheeda-Sultana/zomato-data-analysis-using-python.
 cd zomato-data-analysis-using-python
 
 # Navigate to the python script inside notebooks/pythoncode
-cd notebooks
+cd notebook
 ```
 
 ### 2. Prepare the dataset
