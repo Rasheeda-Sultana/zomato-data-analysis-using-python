@@ -39,8 +39,8 @@ The project uses **Python** and industry-standard libraries: **Pandas, NumPy, Ma
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-org/zomato-data-analysis.git
-cd zomato-data-analysis
+[git clone https://github.com/your-org/zomato-data-analysis.git
+cd zomato-data-analysis](https://github.com/Rasheeda-Sultana/zomato-data-analysis-using-python)
 ```
 
 ### 2. Prepare the dataset
